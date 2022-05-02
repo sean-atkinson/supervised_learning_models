@@ -1,4 +1,4 @@
-Supervised Learning Model Comparison
+**Supervised Learning Model Comparison**
 
 ![A piggybank with 401k written beside it](https://imgur.com/2xg0qOu.jpg)
 *Getty Images*
